@@ -1,0 +1,29 @@
+@media (max-width: 800px) {
+  .flex{
+    flex-direction: column;
+  }
+  .flex2{
+    flex-direction: column;
+  }
+  .flex3{
+    flex-direction: column;
+  }
+  nav{
+    display: none;
+  }
+
+}
+
+
+@media (min-width:800px) {
+
+  .openbtn {
+  display: none;
+  }
+  
+}
+
+
+
+
+
